@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Radiant\n"
 "POT-Creation-Date: 2021-06-14 02:04\n"
-"PO-Revision-Date: 2021-07-10 16:59+0200\n"
+"PO-Revision-Date: 2021-07-21 01:25+0200\n"
 "Language-Team: \n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
@@ -1825,7 +1825,7 @@ msgstr "Le sperme humain a le même goût que dans mes rêves !"
 #: /Game/Characters/Procedural/Variants/Risu/Harvest/RisuHarvest.Default__RisuHarvest_C.Harvest.Description
 msgctxt ",22657D9344EA0FA193ED4BB66564D308"
 msgid "Risu body fluids."
-msgstr ""
+msgstr "Jus de Risu."
 
 #. Key:	226CAB5E40652DCF455036A02B7F0BEF
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(3).LinesGrungy
@@ -3033,7 +3033,7 @@ msgstr "J'ai décidé d'utiliser mon pouvoir de dryade pour produire des fruits 
 #: /Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",38F493C44D198004851E1399B9B3A835"
 msgid "It's been sometime since I have been mounted, so I might get rough!"
-msgstr ""
+msgstr "Cela fait quelque temps que je n'ai pas été montée, je risque d'être rugueuse !"
 
 #. Key:	391607BA4B3A996D1551BC9B7E71F385
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Harpy/Harvest/HarpyHarvest.Default__HarpyHarvest_C.Harvest.RaceName
@@ -3807,7 +3807,7 @@ msgstr "Mon nom est Falene, la spécialiste en chef des @MONSTER_NAME@ dans tout
 #: /Game/Ranch/Upgrades/RisuHutch.Default__RisuHutch_C.Upgrade.Description
 msgctxt ",465ADEB24CD3DDFD522F83BA4982D09B"
 msgid "This allows you to catch and store all variants of Risu."
-msgstr ""
+msgstr "Cela te permet de capturer et conserver toutes les sortes de Risu."
 
 #. Key:	4673804842CCE448A5F016907F5651DD
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(1).Lines
@@ -5191,7 +5191,7 @@ msgstr "De telles créations ont erré sous une forme chétive purement par inst
 #: /Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",6272317B4A4AE3E76212F6A3B94CDAAA"
 msgid "Such strength... ahhh!"
-msgstr ""
+msgstr "Une telle force... aaah !"
 
 #. Key:	62B5CF3C40893752840CAEBF4C8159C3
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(4).Lines
@@ -9583,7 +9583,7 @@ msgstr "Qu'est-ce que tu attends ? Viens !"
 #: /Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",B16A16AD4DAD11735CC38DBC5E9237B1"
 msgid "It's been sometime since I have been mounted, so I might get rough!"
-msgstr ""
+msgstr "Cela fait quelque temps que je n'ai pas été montée, je risque d'être rugueuse !"
 
 #. Key:	B17C429C4AE53B8CA98F5E8166D598D2
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -10765,7 +10765,7 @@ msgstr "Tu cherches à connaître une nouvelle utilisation de ta boîte à malic
 #: /Game/Characters/Procedural/Variants/Risu/Harvest/RisuHarvest.Default__RisuHarvest_C.Harvest.RaceName
 msgctxt ",C760FF8B46FA4C58A2012CB2F41CE6F8"
 msgid "Risu"
-msgstr ""
+msgstr "Risu"
 
 #. Key:	C77FA616486308414031F29069272188
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -11006,7 +11006,7 @@ msgstr "Ensuite je prends des poses séduisantes devant tout ce qu'elle ramène,
 #: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.LinesToMale(0).LinesToMale
 msgctxt ",CCBE2DF04F273EE3D33DE583845CB545"
 msgid "Ye drank so much for a wee lad!"
-msgstr ""
+msgstr "Tu as une belle descente pour un nabot !"
 
 #. Key:	CCFE0CB04C0DD4BC550FE6AF03BFABB3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(1).Lines
@@ -12042,7 +12042,7 @@ msgstr "Plantureuse"
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Jungle.BlockMessage
 msgctxt ",DC9E09AE4BC0BE32644CA59E071AE774"
 msgid "Honeycomb blocks this gate."
-msgstr ""
+msgstr "Des rayons de miel bloquent la porte."
 
 #. Key:	DCA3C7F14DDEBDAEB595FB95AA6A4F3C
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay.Default__MegaSlimePlay_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -12755,7 +12755,7 @@ msgstr "Reliques des Amoureux"
 #: /Game/Ranch/Upgrades/RisuHutch.Default__RisuHutch_C.Upgrade.DisplayName
 msgctxt ",E97D557A4CC9B101F2F7E1A43C6C27B9"
 msgid "Risu Hutch"
-msgstr ""
+msgstr "Clapier Risu"
 
 #. Key:	E999DFEA4E92B84DC1426192191A75AA
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadFatAssLamia.Default__DryadFatAssLamia_C.SessionData.Lines(3).Lines
@@ -12832,7 +12832,7 @@ msgstr "Cela te permet de capturer et conserver toutes les sortes de Démon."
 #: /Game/World/Overworld.Overworld:PersistentLevel.RisuHutch.ManageActionMessage
 msgctxt ",EB1406C440D3EF18AF3C78B296137764"
 msgid "Manage your Risu"
-msgstr ""
+msgstr "Gère tes Risus"
 
 #. Key:	EB2D583D443FA7DB15278C95780CBC37
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -14388,7 +14388,7 @@ msgstr "Fessi souhaite te parler."
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:508
 msgctxt "ASexyWorldSystem,KybeleMateTaskF"
 msgid "Bring to me a Vulwarg with a large soft ass! I wish feel her cushion as I thrust my cock deep and plant my seed in her body."
-msgstr ""
+msgstr "Apporte-moi un Vulwarg avec un gros cul bien mou ! Je souhaite sentir son postérieur flasque lorsque j'enfoncerais ma bite profondément afin de planter ma graine dans son corps."
 
 #. Key:	KybeleMateTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:504
@@ -14402,7 +14402,7 @@ msgstr "Kybele souhaite te parler."
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:512
 msgctxt "ASexyWorldSystem,KybeleMateTaskT"
 msgid "Bring to me a Vulwarg with massive muscles! I wish feel like I'm being mounted by a mighty stallion."
-msgstr ""
+msgstr "Apporte-moi un Vulwarg avec des muscles bien saillants ! J'aimerais avoir l'impression d'être montée par un puissant étalon."
 
 #. Key:	KybeleMateTitle
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:503
@@ -15548,7 +15548,7 @@ msgstr "Faire disparaitre seulement les sous-vêtements."
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:302
 msgctxt "CharacterEditor,ToolsTooltip"
 msgid "Various editor functions."
-msgstr ""
+msgstr "Diverses fonctions d'édition."
 
 #. Key:	UnderwearGroup
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:474
@@ -15692,35 +15692,35 @@ msgstr "Ecraser la partie sauvegardée ?"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:152
 msgctxt "ConfirmationBox,PresetAttachmentConfirm"
 msgid "All presets for this variant will have their attachment colors replaced, this cannot be undone."
-msgstr ""
+msgstr "Tous les préréglages pour cette variante auront leurs couleurs d'éléments additionnels remplacées, cela ne peut pas être annulé."
 
 #. Key:	PresetAttachmentTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:146
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:146
 msgctxt "ConfirmationBox,PresetAttachmentTitle"
 msgid "Propagate Attachment Color?"
-msgstr ""
+msgstr "Propager la couleur des éléments additionnels ?"
 
 #. Key:	PresetFurConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:147
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:147
 msgctxt "ConfirmationBox,PresetFurConfirm"
 msgid "All presets for this variant will have their fur colors replaced, this cannot be undone."
-msgstr ""
+msgstr "Tous les préréglages pour cette variante auront leurs couleurs de fourrure remplacées, cela ne peut pas être annulé."
 
 #. Key:	PresetFurTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:151
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:151
 msgctxt "ConfirmationBox,PresetFurTitle"
 msgid "Propagate Fur Color?"
-msgstr ""
+msgstr "Propager la couleur de la fourrure ?"
 
 #. Key:	PresetHairConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:162
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:162
 msgctxt "ConfirmationBox,PresetHairConfirm"
 msgid "All presets for this variant will have their hair colors replaced, this cannot be undone."
-msgstr ""
+msgstr "Tous les préréglages pour cette variante auront leurs couleurs de cheveux remplacées, cela ne peut pas être annulé."
 
 #. Key:	PresetOverwriteConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:137
@@ -15755,21 +15755,21 @@ msgstr "Propager les valeurs corporels du preset ?"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:172
 msgctxt "ConfirmationBox,PresetSkinConfirm"
 msgid "All presets for this variant will have their skin colors replaced, this cannot be undone."
-msgstr ""
+msgstr "Tous les préréglages pour cette variante auront leurs couleurs de peau remplacées, cela ne peut pas être annulé."
 
 #. Key:	PresetSkinTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:166
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:166
 msgctxt "ConfirmationBox,PresetSkinTitle"
 msgid "Propagate Skin Color?"
-msgstr ""
+msgstr "Propager la couleur de la peau ?"
 
 #. Key:	PresetTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:161
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:161
 msgctxt "ConfirmationBox,PresetTitle"
 msgid "Propagate Hair Color?"
-msgstr ""
+msgstr "Propager la couleur des cheveux ?"
 
 #. Key:	ReleaseConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:122
@@ -16798,7 +16798,7 @@ msgstr "Passe au dialogue suivant sans avoir besoin d'appuyer."
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:116
 msgctxt "SettingsMenu,BulgeHelp"
 msgid "Large dicks will slightly bulge the receiver's groin and belly area."
-msgstr ""
+msgstr "Les grosses bites gonfleront légèrement l'aine et le ventre du receveur."
 
 #. Key:	CameraControls
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:243
@@ -16868,14 +16868,14 @@ msgstr "Gonflement à cause du sperme"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:116
 msgctxt "SettingsMenu,DickBulge"
 msgid "Dick Bulge"
-msgstr ""
+msgstr "Renflement du pénis"
 
 #. Key:	DickSheath
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:435
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:435
 msgctxt "SettingsMenu,DickSheath"
 msgid "Dick Seam Blend"
-msgstr ""
+msgstr "Transition du pénis"
 
 #. Key:	EffectsVolume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:516
@@ -17575,7 +17575,7 @@ msgstr "Mode créateur activé."
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:966
 msgctxt "SSexySettingsMenu,CreatorModeMainMenu"
 msgid "Use this code in the main menu."
-msgstr ""
+msgstr "Utilise ce code sur le menu principal."
 
 #. Key:	DefaultKeyBinds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:864
